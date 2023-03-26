@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=radical&locale=en&layout=compact" alt="dogukannparlak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=radical&locale=en" alt="dogukannparlak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=dark&locale=en" alt="dogukannparlak" /></p>
