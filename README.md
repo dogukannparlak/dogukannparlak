@@ -16,9 +16,9 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&locale=en" alt="dogukannparlak" width="460" height="250" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&locale=en" alt="dogukannparlak" width="400" height="250" /></p>
 
-<p><img align="auto " src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="460" height="250" /></p>
+<p><img align="auto " src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="400" height="250" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=plastic" alt="dogukannparlak" /> </p>
 
