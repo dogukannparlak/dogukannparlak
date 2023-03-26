@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="dogukannparlak" /></p>
 
 
-<a href=**dogukannparlak@gmail.com** target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dogukanpariak" height="30" width="40" /></a>
+<a href=**dogukannparlak@gmail.com** target="blank"><img align="center" src=![gmail_icon_vecteezy_transparent_generated](https://user-images.githubusercontent.com/115643487/227753763-1ded91e2-e56b-4835-80ff-14424cd7d6be.png)" alt="dogukanpariak" height="30" width="40" /></a>
