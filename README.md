@@ -14,11 +14,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=plastic" alt="dogukannparlak" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&locale=en" alt="dogukannparlak" width="467" height="195" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="467" height="195" /></p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&locale=en" alt="dogukannparlak" width="460" height="250" /></p>
+
+<p><img align="auto " src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="460" height="250" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=plastic" alt="dogukannparlak" /> </p>
 
  
 
