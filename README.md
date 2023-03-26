@@ -3,7 +3,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/dogukanpariak" target="blank"><img src="https://img.shields.io/twitter/follow/dogukanpariak?logo=twitter&style=for-the-badge" alt="dogukanpariak" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=6808dd&style=plastic" alt="dogukannparlak" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=6808dd&style=plastic" alt="dogukannparlak" /> </p>
 - 📫 How to reach me **dogukannparlak@gmail.com**
