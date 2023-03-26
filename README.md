@@ -1,7 +1,7 @@
 <h1 align="auto">Hi! Welcome to my github page. 👋</h1>
-<h3 align="center">I'm Doğukan Parlak. Computer and Sofware Engineer from Türkiye</h3>
+<h3 align="auto">I'm Doğukan Parlak. Computer and Sofware Engineer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=flat" alt="dogukannparlak" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=flat" alt="dogukannparlak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dogukanpariak" target="blank"><img src="https://img.shields.io/twitter/follow/dogukanpariak?logo=twitter&style=for-the-badge" alt="dogukanpariak" /></a> </p>
 
