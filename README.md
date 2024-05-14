@@ -31,9 +31,6 @@
 
 <hr>
 
- <p align="center"> 
-  Visitor count<br>
- <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-</p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=plastic" alt="dogukannparlak" /> </p>
 
 
