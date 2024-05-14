@@ -22,9 +22,13 @@
 
 
 
-<p><img align="auto " src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="400" height="250" /></p>
+# 📊GitHub Stats 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=plastic" alt="dogukannparlak" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="dogukannparlak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="dogukanparlak" width="50%" /></p>
+
+
+<hr>
 
  
 
