@@ -33,7 +33,7 @@
 
  <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dogukannparlak/count.svg" />
+ <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 
