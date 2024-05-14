@@ -24,8 +24,9 @@
 
 # 📊GitHub Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="dogukannparlak" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="dogukannparlak" width="50%" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dogukannparlak&show_icons=true&theme=tokyonight&locale=en" alt="dogukannparlak" width="400" height="250" /></p>
+
+<p><img align="auto " src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukannparlak&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="dogukannparlak" width="400" height="250" /></p>
 
 
 <hr>
