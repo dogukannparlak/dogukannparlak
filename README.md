@@ -65,20 +65,7 @@
 </div>
 ---
 
-
-## 🎵 Currently Playing
-
 <div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/rybg3zin4jn39wua2tetk90hx)
-
-</div>
-
----
-
-<div align="center">
-
-
 
 <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
