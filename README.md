@@ -6,27 +6,29 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
----
+-----
 
 ## 🎯 About Me
 
 - 🎓 Computer & Software Engineer
 - 🌍 Based in Türkiye
 - 💻 Passionate about web development and software engineering
+- 🌐 Personal website: **[dogukanparlak.com](https://dogukanparlak.com)**
 - 📫 Reach me at: **dogukannparlak@gmail.com**
 
----
+-----
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dogukanparlak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dogukannparlak)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogukannparlak@gmail.com)
 
 </div>
 
----
+-----
 
 ## 💻 Tech Stack
 
@@ -54,7 +56,7 @@
 
 </div>
 
----
+-----
 
 ## 📊 GitHub Stats
 
@@ -69,4 +71,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-</div> 
+</div>
