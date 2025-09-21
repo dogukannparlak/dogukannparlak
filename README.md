@@ -73,22 +73,19 @@ With hands-on experience building **real-time detection systems**, **scalable AP
 
 ## 🚀 Featured Projects
 
+- [**WhatsApp Bot**](https://github.com/dogukannparlak/whatsappbot)  
+  A scalable Flask-based WhatsApp bot with multi-profile support, MySQL integration, and API endpoints.  
+
 - [**Instagram Analiz Aracı**](https://github.com/dogukannparlak/instagram-analiz-araci)  
   A Python-based tool for analyzing Instagram accounts with data visualization and insights.  
 
+- [**Önerdiğim Uygulama ve Eklentiler**](https://github.com/dogukannparlak/Onerdigim-uygulama-ve-eklentiler)  
+  Curated list of productivity tools, apps, and browser extensions that I personally recommend.  
 - [**Kredi Hesaplama & GANO/DANO**](https://github.com/dogukannparlak/Kredi-Hesaplama-GANO-DANO)  
   A GPA (GANO/DANO) and credit calculation application built for university students.  
 
 - [**Weather Station**](https://github.com/dogukannparlak/Weather-Station)  
   IoT-based environmental monitoring system using Raspberry Pi, sensors, and Flask backend.  
-
-- [**Önerdiğim Uygulama ve Eklentiler**](https://github.com/dogukannparlak/Onerdigim-uygulama-ve-eklentiler)  
-  Curated list of productivity tools, apps, and browser extensions that I personally recommend.  
-
-- [**WhatsApp Bot**](https://github.com/dogukannparlak/whatsappbot)  
-  A scalable Flask-based WhatsApp bot with multi-profile support, MySQL integration, and API endpoints.  
-
-
 
 ## 📊 GitHub Stats
 
