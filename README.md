@@ -6,21 +6,19 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
------
+
 
 ## 🎯 About Me
 
 I’m a **Computer Engineering student** with strong problem-solving and analytical skills, passionate about **computer vision, backend development, and automation systems**.  
 With hands-on experience building **real-time detection systems**, **scalable APIs**, and **data-driven applications**, I focus on **bridging academic knowledge with practical, production-ready solutions**.  
 
-I’m eager to contribute as an **intern or junior developer**—applying my skills, learning fast, and helping ship **innovative, impactful software**.  
-
 - 🎓 Computer & Software Engineer  
 - 💻Passionate about web development and software engineering 
 - 🌐 Personal website: **[dogukanparlak.com](https://dogukanparlak.com)**  
 - 📫 Reach me at: **dogukannparlak@gmail.com**  
 
------
+
 
 ## 🌐 Connect with Me
 
@@ -32,7 +30,6 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
 
 </div>
 
------
 
 ## 💻 Tech Stack
 <div align="center">
@@ -44,7 +41,7 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
+
 
 ### Frameworks & Libraries  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -53,19 +50,19 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
 ![Ultralytics](https://img.shields.io/badge/ultralytics-FF6F00?style=for-the-badge&logo=yolo&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
+
 
 ### Databases  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 ### Tools & Platforms  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
----
+
 
 ### Web  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,7 +70,6 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
 </div>
 
 
------
 
 ## 🚀 Featured Projects
 
@@ -92,7 +88,7 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
 - [**WhatsApp Bot**](https://github.com/dogukannparlak/whatsappbot)  
   A scalable Flask-based WhatsApp bot with multi-profile support, MySQL integration, and API endpoints.  
 
------
+
 
 ## 📊 GitHub Stats
 
@@ -101,8 +97,9 @@ I’m eager to contribute as an **intern or junior developer**—applying my ski
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukannparlak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
 </div>
----
 
+
+---
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=dogukannparlak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
