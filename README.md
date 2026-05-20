@@ -10,8 +10,8 @@
 
 ## 🎯 About Me
 
-I’m a **Computer Engineering student** with strong problem-solving and analytical skills, passionate about **computer vision, backend development, and automation systems**.  
-With hands-on experience building **real-time detection systems**, **scalable APIs**, and **data-driven applications**, I focus on **bridging academic knowledge with practical, production-ready solutions**.  
+I’m a **Computer Engineering student** with strong problem-solving and analytical skills, passionate about **machine learning, computer vision, backend development, and automation systems**.  
+With hands-on experience building **supervised & ensemble models**, **real-time detection systems**, **scalable APIs**, and **data-driven applications**, I focus on **bridging academic knowledge with practical, production-ready solutions**.  
 
 - 🎓 Computer & Software Engineer  
 - 💻Passionate about web development and software engineering 
@@ -31,42 +31,49 @@ With hands-on experience building **real-time detection systems**, **scalable AP
 </div>
 
 
+## 🧠 Skills
+
+| Area | Focus |
+|------|--------|
+| **Machine Learning** | Supervised & ensemble learning, data preprocessing & feature engineering, model evaluation & cross-validation |
+| **AI & Computer Vision** | Object detection, annotation workflows, local LLM integration |
+| **Web Development** | REST APIs, backend services, responsive UI |
+| **Automation** | Browser automation & scripting |
+
 ## 💻 Tech Stack
 <div align="center">
 
-### Languages  
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Cross Validation](https://img.shields.io/badge/Cross--Validation-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-
-### Frameworks & Libraries  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+### AI & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-FF6F00?style=for-the-badge&logo=yolo&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/ultralytics-FF6F00?style=for-the-badge&logo=yolo&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Label Studio](https://img.shields.io/badge/Label%20Studio-FF6F00?style=for-the-badge&logo=label&logoColor=white)
 
-
-
-### Databases  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### Tools & Platforms  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-
-
-### Web  
+### Web Development
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Other Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 </div>
 
 
